@@ -7,6 +7,8 @@ https://zhuanlan.zhihu.com/p/35423943?utm_source=wechat_timeline&utm_medium=soci
 
 # CV
 https://github.com/STAIR-Lab-CIT/STAIR-actions Large Scale Video Dataset for Action Recognition http://actions.stair.center
+http://crcv.ucf.edu/data/UCF101.php Action Recognition Data Set
+
 
 # Speech and audio
 
