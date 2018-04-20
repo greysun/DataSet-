@@ -21,6 +21,8 @@ http://www.vldb.org/pvldb/vol9/p993-abedjan.pdf Detecting Data Errors:Where are 
 https://arxiv.org/abs/1801.07237 Smoke: Fine-grained Lineage at Interactive Speed
 https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf Data Programming:
 Creating Large Training Sets, Quickly
+http://www.vldb.org/pvldb/vol9/p948-krishnan.pdf ActiveClean: Interactive Data Cleaning
+For Statistical Modeling
 
 
 
@@ -31,7 +33,15 @@ Creating Large Training Sets, Quickly
 https://github.com/kootenpv/sky it aims for next generation web crawling where machine intelligence is used to speed up the development/maintainance/reliability of crawling.
 https://github.com/HoloClean/HoloClean A Machine Learning System for Data Enrichment. http://www.holoclean.io
 https://github.com/HazyResearch/snorkel A system for quickly generating training data with weak supervision http://snorkel.stanford.edu
+https://blog.modeanalytics.com/python-data-cleaning-libraries/ 
+https://github.com/NathanEpstein/Dora
+https://github.com/rhiever/datacleaner
+https://github.com/HHammond/PrettyPandas
+https://github.com/LuminosoInsight/python-ftfy
+http://brettromero.com/data-science-kaggle-walkthrough-cleaning-data/
+
 
 
 # refer 
 http://wp.sigmod.org/?p=2288  DATA CLEANING IS A MACHINE LEARNING PROBLEM THAT NEEDS DATA SYSTEMS HELP!
+http://serialmentor.com/dataviz/ Fundamentals of Data Visualization
