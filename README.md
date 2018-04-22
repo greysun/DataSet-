@@ -28,6 +28,8 @@ For Statistical Modeling
 
 
 # Tools
+https://github.com/lorien/awesome-web-scraping List of libraries, tools and APIs for web scraping and data processing.
+
  https://github.com/scrapy/scrapy a fast high-level web crawling & scraping framework for Python
  https://github.com/gaojiuli/gain Web crawling framework based on asyncio.
 https://github.com/kootenpv/sky it aims for next generation web crawling where machine intelligence is used to speed up the development/maintainance/reliability of crawling.
@@ -40,8 +42,18 @@ https://github.com/HHammond/PrettyPandas
 https://github.com/LuminosoInsight/python-ftfy
 http://brettromero.com/data-science-kaggle-walkthrough-cleaning-data/
 
+Crawling and  Spraper:
+
+https://github.com/sangaline/advanced-web-scraping-tutorial The Zipru scraper developed in the Advanced Web Scraping Tutorial.
+
+https://github.com/speed/newcrawler Free Web Scraping Tool with Java http://www.newcrawler.com
+https://github.com/leonsim/simhash A Python Implementation of Simhash Algorithm
+https://github.com/lorien/grab Web Scraping Framework http://grablib.org
+https://github.com/yahoo/anthelion Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages https://labs.yahoo.com/publications/6…
 
 
 # refer 
+https://github.com/jobbole/awesome-python-cn Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由伯乐在线持续更新。
+
 http://wp.sigmod.org/?p=2288  DATA CLEANING IS A MACHINE LEARNING PROBLEM THAT NEEDS DATA SYSTEMS HELP!
 http://serialmentor.com/dataviz/ Fundamentals of Data Visualization
