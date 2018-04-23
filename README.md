@@ -19,6 +19,8 @@ http://bbcsfx.acropolis.org.uk These 16,016 BBC Sound Effects are made available
 http://openkg.cn/dataset
 
 #  Data
+https://github.com/awesomedata/awesome-public-datasets A topic-centric list of high-quality open datasets in public domains.
+
 http://www.vldb.org/pvldb/vol9/p993-abedjan.pdf Detecting Data Errors:Where are we and what needs to be done?
 https://arxiv.org/abs/1801.07237 Smoke: Fine-grained Lineage at Interactive Speed
 https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-quickly.pdf Data Programming:
