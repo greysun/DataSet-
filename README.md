@@ -15,7 +15,6 @@ http://bbcsfx.acropolis.org.uk These 16,016 BBC Sound Effects are made available
 
 
 # Knowledge Graph
-
 http://openkg.cn/dataset
 
 #  Data
@@ -27,9 +26,7 @@ https://papers.nips.cc/paper/6523-data-programming-creating-large-training-sets-
 Creating Large Training Sets, Quickly
 http://www.vldb.org/pvldb/vol9/p948-krishnan.pdf ActiveClean: Interactive Data Cleaning
 For Statistical Modeling
-
-
-
+https://www.zhihu.com/question/19969760 数据分析和挖掘有哪些公开的数据来源
 
 # Tools
 https://github.com/lorien/awesome-web-scraping List of libraries, tools and APIs for web scraping and data processing.
@@ -54,6 +51,13 @@ https://github.com/speed/newcrawler Free Web Scraping Tool with Java http://www.
 https://github.com/leonsim/simhash A Python Implementation of Simhash Algorithm
 https://github.com/lorien/grab Web Scraping Framework http://grablib.org
 https://github.com/yahoo/anthelion Anthelion is a plugin for Apache Nutch to crawl semantic annotations within HTML pages https://labs.yahoo.com/publications/6…
+https://github.com/vega/voyager Recommendation-Powered Visualization Tool for Data Exploration http://vega.github.io/voyager
+https://orange.biolab.si Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox.
+https://github.com/wireservice/agate A Python data analysis library that is optimized for humans instead of machines. http://agate.readthedocs.org/
+https://github.com/wireservice/csvkit A suite of utilities for converting to and working with CSV, the king of tabular file formats. http://csvkit.rtfd.org/
+
+
+
 
 
 # refer 
@@ -61,3 +65,12 @@ https://github.com/jobbole/awesome-python-cn Python资源大全中文版，包�
 
 http://wp.sigmod.org/?p=2288  DATA CLEANING IS A MACHINE LEARNING PROBLEM THAT NEEDS DATA SYSTEMS HELP!
 http://serialmentor.com/dataviz/ Fundamentals of Data Visualization
+http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ Advanced Data Analysis from an Elementary Point of View
+
+https://www.zhihu.com/question/34444491 数据分析、大数据、数据挖掘或者数据分析学习相关的网站推荐
+https://github.com/tdpetrou/Learn-Pandas Tutorials on how to use pandas effectively to do data analysis
+https://github.com/BrambleXu/pydata-notebook 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
+https://github.com/wesm/pydata-book Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+
+
+
