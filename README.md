@@ -71,6 +71,8 @@ https://www.zhihu.com/question/34444491 数据分析、大数据、数据挖掘�
 https://github.com/tdpetrou/Learn-Pandas Tutorials on how to use pandas effectively to do data analysis
 https://github.com/BrambleXu/pydata-notebook 利用Python进行数据分析 第二版 (2017) 中文翻译笔记
 https://github.com/wesm/pydata-book Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
+Python for Data Analysis, 2nd Edition.pdf https://github.com/iamseancheney/pythonbooks/blob/master/Python%20for%20Data%20Analysis,%202nd%20Edition.pdf
+https://www.jianshu.com/p/04d180d90a3f 中文 Python%20for%20Data%20Analysis,%202nd%20Edition
 
 
 
