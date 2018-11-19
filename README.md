@@ -6,6 +6,10 @@ dataset for NLP，CV  and speech
 https://zhuanlan.zhihu.com/p/35423943?utm_source=wechat_timeline&utm_medium=social&wechatShare=2&from=timeline&isappinstalled=0
 https://github.com/Embedding/Chinese-Word-Vectors 100+ Chinese Word Vectors 上百种预训练中文词向量
 
+https://github.com/fighting41love/funNLP  中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌&零件词库、时间抽取、连续英文切割、中文词向量大全、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据。
+
+
+
 
 
 
