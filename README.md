@@ -3,6 +3,8 @@ dataset for NLP，CV  and speech
 
 
 # NLP
+https://github.com/SophonPlus/ChineseNlpCorpus  情感/观点/评论,中文命名实体识别,推荐系统,FAQ 问答系统
+
 https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651659446&idx=2&sn=7b5ae1ceced6cdab0740dc01abc191fa&chksm=bd4c3b258a3bb233623b8a4aa86465e9c3dcf07e57d62c7918baf0dcbef96fe0a9c132be5c67&mpshare=1&scene=24&srcid=0501tN83WnVGSidt7cs4FbHh#rd  100+个自然语言处理数据集大放送
 
 
