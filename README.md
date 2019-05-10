@@ -3,6 +3,25 @@ dataset for NLP，CV  and speech
 
 
 # NLP
+
+https://github.com/brightmart/nlp_chinese_corpus :
+1.维基百科(wiki2019zh)，100万个结构良好的中文词条
+2.新闻语料(news2016zh)，250万篇新闻，含关键词、描述
+3.百科问答(baike2018qa)，150万个带问题类型的问答
+4.社区问答json版(webtext2019zh)，410万个高质量社区问答，适合训练超大模型
+5.翻译语料(translation2019zh)，520万个中英文句子对
+
+https://github.com/crownpku/Small-Chinese-Corpus 小数据：
+中国省市经纬度坐标：city_location/
+中国省市邮政编码大全：postal_provinces/
+全国区划和城乡划分代码(2015)：china_geo_code/
+成语大全：chengyu/
+中文人名大全及金庸小说、三国演义及红楼梦人物姓名：chi_names/
+中文命名实体识别数据sample：NER_chi/
+中文关系识别数据sample：relation_multiple_chi/
+中文阅读理解数据sample：reading_comprehension_chi/
+中文图文问答数据（基于MSCOCO）：Chinese_Visual_QA_pairs/
+
 https://github.com/SophonPlus/ChineseNlpCorpus  情感/观点/评论,中文命名实体识别,推荐系统,FAQ 问答系统
 
 https://mp.weixin.qq.com/s?__biz=MjM5MTQzNzU2NA==&mid=2651659446&idx=2&sn=7b5ae1ceced6cdab0740dc01abc191fa&chksm=bd4c3b258a3bb233623b8a4aa86465e9c3dcf07e57d62c7918baf0dcbef96fe0a9c132be5c67&mpshare=1&scene=24&srcid=0501tN83WnVGSidt7cs4FbHh#rd  100+个自然语言处理数据集大放送
